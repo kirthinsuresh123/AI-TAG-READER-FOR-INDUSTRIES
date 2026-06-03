@@ -1,0 +1,7 @@
+{
+  "name": "InTag",
+  "description": "An AI-powered industrial inventory system that converts physical machine tags into a live, structured Excel-like dashboard using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
